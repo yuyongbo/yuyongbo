@@ -1,10 +1,10 @@
-### Hi there 👋
-
-<!--
-**yuyongbo/yuyongbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi Im yuyongbo 👋
 
 
-![gopher](https://raw.githubusercontent.com/tenntenn/gopher-stickers/master/png/cheer.png)
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/tenntenn/gopher-stickers/master/png/cheer.pnf"/>
+</p>
+
 
 Here are some ideas to get you started:
 
