@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/tenntenn/gopher-stickers/master/png/cheer.pnf"/>
+  <img align="center" src="https://github.com/yuyongbo/yuyongbo/blob/master/cheer.png"/>
 </p>
 
 
